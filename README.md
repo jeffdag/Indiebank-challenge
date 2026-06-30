@@ -2,6 +2,8 @@
 
 Banking and freelance payments for indie operators. Built for the **Dakota Agentic Build Challenge**.
 
+**Live prototype:** [indiebank-challenge.vercel.app](https://indiebank-challenge.vercel.app/)
+
 You manage money in one place, post freelance jobs, let an AI review submissions, and pay freelancers to their bank account via [Dakota](https://dakota.xyz).
 
 More detail on how it works: run the app and open `/challenge-details`.
